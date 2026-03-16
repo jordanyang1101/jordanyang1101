@@ -1,4 +1,101 @@
-# test_repo
-testing github commands
+<!-- =========================
+     HEADER / BANNER
+========================= -->
 
-testing testing
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300.png?text=Hey!+I'm+Your+Name+%F0%9F%91%8B" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Jordan 👋</h1>
+<h3 align="center">Hardware and Software Developper</h3>
+
+---
+
+## 👋 About Me:
+
+I'm a second year student of Computer Systems Engineering at Carleton University`and incoming Hardware Development Intern at Ford Motor Company! 
+Passionate about building meaningful projects and solving real problems with technology, with an interest in robotics and AI development and integration with hardware.
+
+- 🌱 I started my programming journey with `how you got started`
+- 💡 I’m currently interested in `Hardware Development / Web Development / AI / Robotics / Drones`
+- 🤝 I love building and presenting Hackathon projects and meeting new people
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/nGrok-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/ChromaDB-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### Hardware & Embedded Systems
+<p>
+  <img src="https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/FPGA-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PCB%20Design-0A66C2?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oscilloscope-4B0082?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/UART%20%2F%20SPI%20%2F%20I2C-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/I2C-2E7D32?style=for-the-badge&logoColor=white" />
+</p>
+
+
+## 📌 Featured Projects
+
+### 🚀 AutoReach
+Automated the outreach system for Ottawa based and student run nonprofit Food For The Capital.
+**Tech Used:** `Python`, `FastAPI`, `React`, `Railroads AI`, `Vapi AI`, `nGrok`, `Next.js`, `RAG`, `Postgresql`, `TypeScript`, `MapBox GL`, `LangChain`, `Docker`, `OpenAI`, `Node.js`, `Leaflet`, `SQLAlchemy`
+[🔗 Repo Link]([https://github.com/yourgithubusername/project1](https://github.com/Aaryan-Biradar/AutoReach))
+[🔗 Food For The Capital]([https://www.foodforthecapital.ca/?utm_source=ig&utm_medium=social&utm_content=link_in_bio))
+
+### 🤖 uOttawa Housing Hub
+Built for the University of Ottawa a platform to help students find secure and affordable off campus housing. 
+**Tech Used:** `Vite`, `TypeScript`, `React`, `Supabase`, `Tailwind CSS`, `Mapbox GL`, `Flask`, `Anthropic Claude`, `PyPDF` 
+[🔗 Repo Link](https://github.com/LarryWg/uottawa-housing-hub)
+
+### 🌐 Trading Bias Detector
+Detecting trader biases and giving feedback based on analysed patterns.  
+**Tech Used:** `Vite`, `TypeScript`, `React`, `Supabase`, `Tailwind CSS`, `Recharts`, `Polars`, `node.js`, `Vercel` 
+[🔗 Repo Link](https://github.com/sidharthsajan/trading-bias-detector)
+
+---
+### 🎯 Hobbies:
+- Hackathons
+- Bouldering/Calisthenics
+- Music (Piano/Trumpet)
+- Gaming
+---
+
+## 📫 Contact
+- Email: `jordanyang1101@gmail.com`
+- LinkedIn: `(https://www.linkedin.com/in/jordan-yang-755206283/)`
+---
+
