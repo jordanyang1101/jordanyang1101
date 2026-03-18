@@ -16,9 +16,9 @@
 I'm a second year student of Computer Systems Engineering at Carleton University`and incoming Hardware Development Intern at Ford Motor Company! 
 Passionate about building meaningful projects and solving real problems with technology, with an interest in integrating AI with hardware and robotics.
 
-- 🌱 I started my programming journey with `how you got started`
+- 🌱 I started my STEM journey with VEX Robotics, where I was team captain of our local highschool team.
 - 💡 I’m currently interested in `Hardware Development / Web Development / AI / Robotics / Drones`
-- 🤝 I love building and presenting Hackathon projects and meeting new people
+- 🤝 I love building and presenting Hackathon projects and meeting new people.
 
 ---
 
@@ -45,11 +45,17 @@ Passionate about building meaningful projects and solving real problems with tec
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
+### AI & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Railtracks-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vapi-6D28D9?style=for-the-badge" />
+</p>
+
 ### Databases & Cloud
 <p>
-  <img src="https://img.shields.io/badge/ChromaDB-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-003B57?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
@@ -57,15 +63,16 @@ Passionate about building meaningful projects and solving real problems with tec
 ### Hardware & Embedded Systems
 <p>
   <img src="https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/FPGA-03234B?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arm-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/PCB%20Design-0A66C2?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oscilloscope-4B0082?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/UART%20%2F%20SPI%20%2F%20I2C-FF6F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ECU-2E7D32?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Circuits-2E7D32?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Robotics-2E7D32?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oscilloscope-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UART%20%2F%20SPI%20%2F%20I2C-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ECU-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20Circuits-1B5E20?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Robotics-1565C0?style=for-the-badge" />
 </p>
 
 ## 📌 Featured Projects
