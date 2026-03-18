@@ -10,14 +10,12 @@
 ---
 
 ## 👋 About Me:
+I'm a second-year Computer Systems Engineering student at Carleton University and an incoming Hardware Development Intern at Ford Motor Company.
+I'm interested in building systems at the intersection of hardware, software, AI, and robotics. My experience spans full-stack development, embedded systems, and robotics, and I enjoy working on projects that solve practical, real-world problems.
 
-I'm a second year student of Computer Systems Engineering at Carleton University and incoming Hardware Development Intern at Ford Motor Company! 
-Passionate about building meaningful projects and solving real problems with technology, my main interests lie in integrating AI with hardware and robotics.
-I have expererience with full stack software development, hardware development, and robotics.
-
-- 🌱 I started my STEM journey with VEX Robotics, where I was team captain of our local highschool team.
-- 💡 I’m currently interested in `Hardware Development / Web Development / AI / Robotics / Drones`
-- 🤝 I love building and presenting Hackathon projects and meeting new people.
+- 🌱 I started my STEM journey through VEX Robotics, where I served as captain of my high school team.
+- 💡 Current interests: `Hardware Development`, `Embedded Systems`, `AI`, `Robotics`, `Web Development`, `Drones`
+- 🤝 I enjoy building hackathon projects, presenting ideas, and meeting new people.
 
 ---
 
@@ -88,7 +86,7 @@ Built for the University of Ottawa a platform to help students find secure and a
 ### 🌐 Trading Bias Detector
 Detecting trader biases and giving feedback based on analysed patterns.
 
-**Tech Used:** `Vite`, `TypeScript`, `React`, `Supabase`, `Tailwind CSS`, `Recharts`, `Polars`, `node.js`, `Vercel` 
+**Tech Used:** `Vite`, `TypeScript`, `React`, `Supabase`, `Tailwind CSS`, `Recharts`, `Polars`, `Node.js`, `Vercel` 
 [🔗 Repo Link](https://github.com/sidharthsajan/trading-bias-detector)
 
 ---
