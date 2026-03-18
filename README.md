@@ -42,12 +42,8 @@ I have expererience with full stack software development, hardware development, 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-### AI & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Railtracks-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vapi-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Railtracks AI-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vapi AI-6D28D9?style=for-the-badge" />
 </p>
 
 ### Databases & Cloud
@@ -105,6 +101,6 @@ Detecting trader biases and giving feedback based on analysed patterns.
 
 ## 📫 Contact
 - Email: `jordanyang1101@gmail.com`
-- LinkedIn: `(https://www.linkedin.com/in/jordan-yang-755206283/)`
+- LinkedIn: `https://www.linkedin.com/in/jordan-yang-755206283/`
 ---
 
