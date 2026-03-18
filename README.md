@@ -72,7 +72,7 @@ Passionate about building meaningful projects and solving real problems with tec
 
 ### 🚀 AutoReach
 Automated the outreach system for Ottawa based and student run nonprofit Food For The Capital.
-**Tech Used:** `Python`, `FastAPI`, `React`, `Railroads AI`, `Vapi AI`, `nGrok`, `Next.js`, `RAG`, `Postgresql`, `TypeScript`, `MapBox GL`, `LangChain`, `Docker`, `OpenAI`, `Node.js`, `Leaflet`, `SQLAlchemy`
+**Tech Used:** `Python`, `FastAPI`, `React`, `Railtracks AI`, `Vapi AI`, `nGrok`, `Next.js`, `RAG`, `Postgresql`, `TypeScript`, `MapBox GL`, `LangChain`, `Docker`, `OpenAI`, `Node.js`, `Leaflet`, `SQLAlchemy`
 [🔗 Repo Link](https://github.com/Aaryan-Biradar/AutoReach)
 [🔗 Food For The Capital](https://www.foodforthecapital.ca/?utm_source=ig&utm_medium=social&utm_content=link_in_bio)
 
