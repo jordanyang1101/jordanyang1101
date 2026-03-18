@@ -14,7 +14,7 @@
 ## 👋 About Me:
 
 I'm a second year student of Computer Systems Engineering at Carleton University`and incoming Hardware Development Intern at Ford Motor Company! 
-Passionate about building meaningful projects and solving real problems with technology, with an interest in robotics and AI development and integration with hardware.
+Passionate about building meaningful projects and solving real problems with technology, with an interest in integrating AI with hardware and robotics.
 
 - 🌱 I started my programming journey with `how you got started`
 - 💡 I’m currently interested in `Hardware Development / Web Development / AI / Robotics / Drones`
@@ -23,7 +23,6 @@ Passionate about building meaningful projects and solving real problems with tec
 ---
 
 ## 💻 Tech Stack
-
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -39,8 +38,8 @@ Passionate about building meaningful projects and solving real problems with tec
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/nGrok-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/ngrok-000000?style=for-the-badge&logo=ngrok&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -58,15 +57,16 @@ Passionate about building meaningful projects and solving real problems with tec
 ### Hardware & Embedded Systems
 <p>
   <img src="https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/FPGA-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/FPGA-03234B?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/PCB%20Design-0A66C2?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/Oscilloscope-4B0082?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/UART%20%2F%20SPI%20%2F%20I2C-FF6F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/I2C-2E7D32?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ECU-2E7D32?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Circuits-2E7D32?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robotics-2E7D32?style=for-the-badge&logoColor=white" />
 </p>
-
 
 ## 📌 Featured Projects
 
