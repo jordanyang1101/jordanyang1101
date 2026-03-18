@@ -6,15 +6,14 @@
   <img src="https://via.placeholder.com/1200x300.png?text=Hey!+I'm+Your+Name+%F0%9F%91%8B" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Jordan 👋</h1>
-<h3 align="center">Hardware and Software Developper</h3>
 
 ---
 
 ## 👋 About Me:
 
-I'm a second year student of Computer Systems Engineering at Carleton University`and incoming Hardware Development Intern at Ford Motor Company! 
-Passionate about building meaningful projects and solving real problems with technology, with an interest in integrating AI with hardware and robotics.
+I'm a second year student of Computer Systems Engineering at Carleton University and incoming Hardware Development Intern at Ford Motor Company! 
+Passionate about building meaningful projects and solving real problems with technology, my main interests lie in integrating AI with hardware and robotics.
+I have expererience with full stack software development, hardware development, and robotics.
 
 - 🌱 I started my STEM journey with VEX Robotics, where I was team captain of our local highschool team.
 - 💡 I’m currently interested in `Hardware Development / Web Development / AI / Robotics / Drones`
@@ -79,17 +78,20 @@ Passionate about building meaningful projects and solving real problems with tec
 
 ### 🚀 AutoReach
 Automated the outreach system for Ottawa based and student run nonprofit Food For The Capital.
-**Tech Used:** `Python`, `FastAPI`, `React`, `Railtracks AI`, `Vapi AI`, `nGrok`, `Next.js`, `RAG`, `Postgresql`, `TypeScript`, `MapBox GL`, `LangChain`, `Docker`, `OpenAI`, `Node.js`, `Leaflet`, `SQLAlchemy`
+
+**Tech Used:** `Python`, `FastAPI`, `React`, `Railtracks AI`, `Vapi AI`, `ngrok`, `Next.js`, `RAG`, `PostgreSQL`, `TypeScript`, `MapBox GL`, `LangChain`, `Docker`, `OpenAI`, `Node.js`, `Leaflet`, `SQLAlchemy`
 [🔗 Repo Link](https://github.com/Aaryan-Biradar/AutoReach)
 [🔗 Food For The Capital](https://www.foodforthecapital.ca/?utm_source=ig&utm_medium=social&utm_content=link_in_bio)
 
 ### 🤖 uOttawa Housing Hub
-Built for the University of Ottawa a platform to help students find secure and affordable off campus housing. 
+Built for the University of Ottawa a platform to help students find secure and affordable off campus housing.
+
 **Tech Used:** `Vite`, `TypeScript`, `React`, `Supabase`, `Tailwind CSS`, `Mapbox GL`, `Flask`, `Anthropic Claude`, `PyPDF` 
 [🔗 Repo Link](https://github.com/LarryWg/uottawa-housing-hub)
 
 ### 🌐 Trading Bias Detector
-Detecting trader biases and giving feedback based on analysed patterns.  
+Detecting trader biases and giving feedback based on analysed patterns.
+
 **Tech Used:** `Vite`, `TypeScript`, `React`, `Supabase`, `Tailwind CSS`, `Recharts`, `Polars`, `node.js`, `Vercel` 
 [🔗 Repo Link](https://github.com/sidharthsajan/trading-bias-detector)
 
