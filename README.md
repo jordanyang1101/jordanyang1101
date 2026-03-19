@@ -56,8 +56,6 @@ I'm interested in building systems at the intersection of hardware, software, AI
 ### Hardware & Embedded Systems
 <p>
   <img src="https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arm-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/PCB%20Design-0A66C2?style=for-the-badge&logo=autodesk&logoColor=white" />
