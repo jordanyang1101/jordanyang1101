@@ -1,9 +1,4 @@
-
-# Hi, I'm Jordan
-
----
-
-## 👋 About Me:
+## 👋 Hi, I'm Jordan:
 I'm a second-year Computer Systems Engineering student at Carleton University and an incoming Hardware Development Intern at Ford Motor Company and Co-Founder and Software Engineer at BuildAtlas.
 I'm interested in building systems at the intersection of hardware, software, AI, and robotics. My experience spans full-stack development, embedded systems, and robotics, and I enjoy working on projects that solve practical, real-world problems.
 
