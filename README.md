@@ -1,11 +1,5 @@
-<!-- =========================
+
 # Hi, I'm Jordan
-========================= -->
-
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Hey!+I'm+Your+Name+%F0%9F%91%8B" alt="Banner" width="100%" />
-</p>
-
 
 ---
 
